@@ -1,1 +1,1 @@
-execute "normal G"
+execute "normal Go"
